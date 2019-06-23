@@ -1,0 +1,2 @@
+# supermercado
+supermercado python estructurado
